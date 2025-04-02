@@ -41,7 +41,7 @@ To use or modify this project, ensure you have:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/hr-analytics-powerbi.git
+   git clone https://github.com/snehah13/hr-analytics-powerbi.git
    ```
 2. Open `PowerBi_HR_Dashboard.pbit` in **Power BI Desktop**.
 3. Connect to your HR dataset (Excel, SQL, or other sources).
@@ -66,8 +66,9 @@ If you'd like to contribute or improve the dashboard:
 For any questions or collaborations, reach out via:
 
 - 📧 Email: (mailto:snehaah13@gmail.com)
-
-
+## Author
+sneha H
+GitHub: snehah13
 ---
 
 📊 **Power BI helps HR teams make data-driven workforce decisions!** 🚀
